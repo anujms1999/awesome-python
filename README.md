@@ -306,6 +306,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     * [try](https://github.com/timofurrer/try) - A dead simple CLI to try out python packages - It's never been easier.
     * [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
     * [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting.
+    * [zpyi](https://github.com/sakshamsharma/zpyi) - Python in Zsh - Easy python scripting in shell
 
 ## Downloader
 
